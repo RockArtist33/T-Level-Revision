@@ -236,7 +236,7 @@ ul.contains-task-list li input[type="checkbox"] {
 <p>🔴 <a data-href="8.1 - Security risks" href="content\U8 - Security\8.1 - Security risks" class="internal-link" target="_blank" rel="noopener">8.1 - Security risks</a><br>
 🔴 <a data-href="8.2 - Threat mitigation" href="content\U8 - Security\8.2 - Threat mitigation" class="internal-link" target="_blank" rel="noopener">8.2 - Threat mitigation</a></p>
 <h1 data-heading=""></h1>
-<h1 data-heading="<mark style=&quot;background: #ABF7F7A6;&quot;>!<a href="https://rockartist33.github.io/testing/content/Misc/pdf/t-level-spec-2020.pdf">T-Level Specifications</a></mark>"><mark style="background: #ABF7F7A6;">PDF - SPEC 2020</mark></h1>
+<h1 data-heading="<mark style=&quot;background: #ABF7F7A6;&quot;><a href="https://rockartist33.github.io/testing/content/Misc/pdf/t-level-spec-2020.pdf">T-Level Specifications">PDF - SPEC 2020</a></mark></h1>
 <p></p></div>
 </body>
 </html>
