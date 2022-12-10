@@ -45,7 +45,7 @@ table {
 table thead th,
 table tfoot th {
   text-align: left;
-  background-color: #eaeaea;
+  background-color: #222222;
   color: black;
 }
 
@@ -55,7 +55,7 @@ table th, table td {
 }
 
 table td {
-  color: #222222;
+  color: #eaeaea;
 }
 
 .callout[data-callout="abstract"] .callout-title,
