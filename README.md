@@ -207,30 +207,30 @@ ul.contains-task-list li input[type="checkbox"] {
 🟢 <a data-href="2.7 - 🛠 Maintainable code" href="content\U2 - Introduction to Programming\2.7 - 🛠 Maintainable code" class="internal-link" target="_blank" rel="noopener">2.7 - 🛠 Maintainable code</a><br>
 🟢 <a data-href="2.8 - 🧪 Testing" href="content\U2 - Introduction to Programming\2.8 - 🧪 Testing" class="internal-link" target="_blank" rel="noopener">2.8 - 🧪 Testing</a></p>
 <h5 data-heading="<mark style=&quot;background: #FFB86CA6;&quot;>U3 - Emerging Issues and Impact</mark> <mark style=&quot;background: #CACFD9A6;&quot;>2/2</mark>"><mark style="background: #FFB86CA6;">U3 - Emerging Issues and Impact</mark> <mark style="background: #CACFD9A6;">2/2</mark></h5>
-<p>🟢 <a data-href="3.1 - 😇 Moral and ethical issues" href="3.1 - 😇 Moral and ethical issues" class="internal-link" target="_blank" rel="noopener">3.1 - 😇 Moral and ethical issues</a><br>
-🟢 <a data-href="3.2 -  ❗   Merging trends and technologies" href="3.2 -  ❗   Merging trends and technologies" class="internal-link" target="_blank" rel="noopener">3.2 -  ❗   Merging trends and technologies</a></p>
+<p>🟢 <a data-href="3.1 - 😇 Moral and ethical issues" href="content\U3 - Emerging Issues and Impact\3.1 - 😇 Moral and ethical issues" class="internal-link" target="_blank" rel="noopener">3.1 - 😇 Moral and ethical issues</a><br>
+🟢 <a data-href="3.2 -  ❗   Merging trends and technologies" href="content\U3 - Emerging Issues and Impact\3.2 -  ❗   Merging trends and technologies" class="internal-link" target="_blank" rel="noopener">3.2 -  ❗   Merging trends and technologies</a></p>
 <h5 data-heading="<mark style=&quot;background: #FFF3A3A6;&quot;>U4 - Legislation and Regulatory Requirements</mark> <mark style=&quot;background: #CACFD9A6;&quot;>2/2</mark>"><mark style="background: #FFF3A3A6;">U4 - Legislation and Regulatory Requirements</mark> <mark style="background: #CACFD9A6;">2/2</mark></h5>
-<p>🟢 <a data-href="4.1 - 🧾 Legislation" href="4.1 - 🧾 Legislation" class="internal-link" target="_blank" rel="noopener">4.1 - 🧾 Legislation</a><br>
-🟢 <a data-href="4.2 - 📐 Guidelines and codes of conduct" href="4.2 - 📐 Guidelines and codes of conduct" class="internal-link" target="_blank" rel="noopener">4.2 - 📐 Guidelines and codes of conduct</a></p>
+<p>🟢 <a data-href="4.1 - 🧾 Legislation" href="content\U4 - Legislation and Regulatory Requirements\4.1 - 🧾 Legislation" class="internal-link" target="_blank" rel="noopener">4.1 - 🧾 Legislation</a><br>
+🟢 <a data-href="4.2 - 📐 Guidelines and codes of conduct" href="content\U4 - Legislation and Regulatory Requirements\4.2 - 📐 Guidelines and codes of conduct" class="internal-link" target="_blank" rel="noopener">4.2 - 📐 Guidelines and codes of conduct</a></p>
 <h5 data-heading="<mark style=&quot;background: #BBFABBA6;&quot;>U5 - Business Environment</mark> <mark style=&quot;background: #CACFD9A6;&quot;>0/4</mark>"><mark style="background: #BBFABBA6;">U5 - Business Environment</mark> <mark style="background: #CACFD9A6;">0/4</mark></h5>
-<p>🔴 <a data-href="5.1 - The business environment" href="5.1 - The business environment" class="internal-link" target="_blank" rel="noopener">5.1 - The business environment</a><br>
-🔴 <a data-href="5.2 - Digital value to business" href="5.2 - Digital value to business" class="internal-link" target="_blank" rel="noopener">5.2 - Digital value to business</a><br>
-🔴 <a data-href="5.3 - Technical change management" href="5.3 - Technical change management" class="internal-link" target="_blank" rel="noopener">5.3 - Technical change management</a><br>
-🔴 <a data-href="5.4 - Risks in a business context" href="5.4 - Risks in a business context" class="internal-link" target="_blank" rel="noopener">5.4 - Risks in a business context</a></p>
+<p>🔴 <a data-href="5.1 - The business environment" href="content\U5 - Business Environment\5.1 - The business environment" class="internal-link" target="_blank" rel="noopener">5.1 - The business environment</a><br>
+🔴 <a data-href="5.2 - Digital value to business" href="content\U5 - Business Environment\5.2 - Digital value to business" class="internal-link" target="_blank" rel="noopener">5.2 - Digital value to business</a><br>
+🔴 <a data-href="5.3 - Technical change management" href="content\U5 - Business Environment\5.3 - Technical change management" class="internal-link" target="_blank" rel="noopener">5.3 - Technical change management</a><br>
+🔴 <a data-href="5.4 - Risks in a business context" href="content\U5 - Business Environment\5.4 - Risks in a business context" class="internal-link" target="_blank" rel="noopener">5.4 - Risks in a business context</a></p>
 <h5 data-heading="<mark style=&quot;background: #ABF7F7A6;&quot;>U6 - Data</mark> <mark style=&quot;background: #CACFD9A6;&quot;>0/4</mark>"><mark style="background: #ABF7F7A6;">U6 - Data</mark> <mark style="background: #CACFD9A6;">0/4</mark></h5>
-<p>🔴 <a data-href="6.1 - Data and information in organisations" href="6.1 - Data and information in organisations" class="internal-link" target="_blank" rel="noopener">6.1 - Data and information in organisations</a><br>
-🔴 <a data-href="6.2 - Data formats" href="6.2 - Data formats" class="internal-link" target="_blank" rel="noopener">6.2 - Data formats</a><br>
-🔴 <a data-href="6.3 - Data systems" href="6.3 - Data systems" class="internal-link" target="_blank" rel="noopener">6.3 - Data systems</a><br>
-🔴 <a data-href="6.4 - Data management" href="6.4 - Data management" class="internal-link" target="_blank" rel="noopener">6.4 - Data management</a></p>
+<p>🔴 <a data-href="6.1 - Data and information in organisations" href="content\U6 - Data\6.1 - Data and information in organisations" class="internal-link" target="_blank" rel="noopener">6.1 - Data and information in organisations</a><br>
+🔴 <a data-href="6.2 - Data formats" href="content\U6 - Data\6.2 - Data formats" class="internal-link" target="_blank" rel="noopener">6.2 - Data formats</a><br>
+🔴 <a data-href="6.3 - Data systems" href="content\U6 - Data\6.3 - Data systems" class="internal-link" target="_blank" rel="noopener">6.3 - Data systems</a><br>
+🔴 <a data-href="6.4 - Data management" href="content\U6 - Data\6.4 - Data management" class="internal-link" target="_blank" rel="noopener">6.4 - Data management</a></p>
 <h5 data-heading="<mark style=&quot;background: #ADCCFFA6;&quot;>U7 - Digital Environment</mark> <mark style=&quot;background: #CACFD9A6;&quot;>5/5</mark>"><mark style="background: #ADCCFFA6;">U7 - Digital Environment</mark> <mark style="background: #CACFD9A6;">5/5</mark></h5>
-<p>🟢 <a data-href="7.1 - 🪛 Physical environments" href="7.1 - 🪛 Physical environments" class="internal-link" target="_blank" rel="noopener">7.1 - 🪛 Physical environments</a><br>
-🟢 <a data-href="7.2 - ⚡ Networks" href="7.2 - ⚡ Networks" class="internal-link" target="_blank" rel="noopener">7.2 - ⚡ Networks</a><br>
-🟢 <a data-href="7.3 - 🤔 Virtual environments" href="7.3 - 🤔 Virtual environments" class="internal-link" target="_blank" rel="noopener">7.3 - 🤔 Virtual environments</a><br>
-🟢 <a data-href="7.4 - ☁ Cloud environments" href="7.4 - ☁ Cloud environments" class="internal-link" target="_blank" rel="noopener">7.4 - ☁ Cloud environments</a><br>
-🟢 <a data-href="7.5 - ⛑ Resilience of environment" href="7.5 - ⛑ Resilience of environment" class="internal-link" target="_blank" rel="noopener">7.5 - ⛑ Resilience of environment</a></p>
+<p>🟢 <a data-href="7.1 - 🪛 Physical environments" href="content\U7 - Digital Environment\7.1 - 🪛 Physical environments" class="internal-link" target="_blank" rel="noopener">7.1 - 🪛 Physical environments</a><br>
+🟢 <a data-href="7.2 - ⚡ Networks" href="content\U7 - Digital Environment\7.2 - ⚡ Networks" class="internal-link" target="_blank" rel="noopener">7.2 - ⚡ Networks</a><br>
+🟢 <a data-href="7.3 - 🤔 Virtual environments" href="content\U7 - Digital Environment\7.3 - 🤔 Virtual environments" class="internal-link" target="_blank" rel="noopener">7.3 - 🤔 Virtual environments</a><br>
+🟢 <a data-href="7.4 - ☁ Cloud environments" href="content\U7 - Digital Environment\7.4 - ☁ Cloud environments" class="internal-link" target="_blank" rel="noopener">7.4 - ☁ Cloud environments</a><br>
+🟢 <a data-href="7.5 - ⛑ Resilience of environment" href="content\U7 - Digital Environment\7.5 - ⛑ Resilience of environment" class="internal-link" target="_blank" rel="noopener">7.5 - ⛑ Resilience of environment</a></p>
 <h5 data-heading="<mark style=&quot;background: #D2B3FFA6;&quot;>U8 - Security</mark> <mark style=&quot;background: #CACFD9A6;&quot;>0/2</mark>"><mark style="background: #D2B3FFA6;">U8 - Security</mark> <mark style="background: #CACFD9A6;">0/2</mark></h5>
-<p>🔴 <a data-href="8.1 - Security risks" href="8.1 - Security risks" class="internal-link" target="_blank" rel="noopener">8.1 - Security risks</a><br>
-🔴 <a data-href="8.2 - Threat mitigation" href="8.2 - Threat mitigation" class="internal-link" target="_blank" rel="noopener">8.2 - Threat mitigation</a></p>
+<p>🔴 <a data-href="8.1 - Security risks" href="content\U8 - Security\8.1 - Security risks" class="internal-link" target="_blank" rel="noopener">8.1 - Security risks</a><br>
+🔴 <a data-href="8.2 - Threat mitigation" href="content\U8 - Security\8.2 - Threat mitigation" class="internal-link" target="_blank" rel="noopener">8.2 - Threat mitigation</a></p>
 <h1 data-heading=""></h1>
 <h1 data-heading="<mark style=&quot;background: #ABF7F7A6;&quot;>PDF - SPEC 2020</mark>"><mark style="background: #ABF7F7A6;">PDF - SPEC 2020</mark></h1>
 <p></p></div>
