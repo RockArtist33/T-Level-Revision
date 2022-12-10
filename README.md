@@ -103,6 +103,10 @@ table td {
   background-color: #aaaaaa;
 }
 
+body {
+  backround-color: #1e1e1e;
+}
+
 .callout-icon {
   flex: 0 0 auto;
   display: flex;
