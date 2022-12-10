@@ -192,8 +192,8 @@ ul.contains-task-list li input[type="checkbox"] {
 <ul>
 <li><strong><mark style="background: #FFF3A3A6;">Contributors</mark></strong> 
 <ul>
-<li>Rubab</li>
-<li>Jack</li>
+<li class="whitetext">Rubab</li>
+<li class="whitetext">Jack</li>
 </ul>
 </li>
 </ul>
