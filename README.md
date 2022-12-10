@@ -231,7 +231,7 @@ ul.contains-task-list li input[type="checkbox"] {
 🟢 <a data-href="7.2 - ⚡ Networks" href="content\U7 - Digital Environment\7.2 - ⚡ Networks" class="internal-link" target="_blank" rel="noopener">7.2 - ⚡ Networks</a><br>
 🟢 <a data-href="7.3 - 🤔 Virtual environments" href="content\U7 - Digital Environment\7.3 - 🤔 Virtual environments" class="internal-link" target="_blank" rel="noopener">7.3 - 🤔 Virtual environments</a><br>
 🟢 <a data-href="7.4 - ☁ Cloud environments" href="content\U7 - Digital Environment\7.4 - ☁ Cloud environments" class="internal-link" target="_blank" rel="noopener">7.4 - ☁ Cloud environments</a><br>
-🟢 <a data-href="7.5 - ⛑ Resilience of environment" href="content\U7 - Digital Environment\7.5 - ⛑ Resilience of environment" class="internal-link" target="_blank" rel="noopener">7.5 - ⛑ Resilience of environment</a></p>
+🟢 <a data-href="7.5 - 😷 Resilience of environment" href="content\U7 - Digital Environment\7.5 - 😷 Resilience of environment" class="internal-link" target="_blank" rel="noopener">7.5 - 😷 Resilience of environment</a></p>
 <h5 data-heading="<mark style=&quot;background: #D2B3FFA6;&quot;>U8 - Security</mark> <mark style=&quot;background: #CACFD9A6;&quot;>0/2</mark>"><mark style="background: #D2B3FFA6;">U8 - Security</mark> <mark style="background: #CACFD9A6;">0/2</mark></h5>
 <p>🔴 <a data-href="8.1 - Security risks" href="content\U8 - Security\8.1 - Security risks" class="internal-link" target="_blank" rel="noopener">8.1 - Security risks</a><br>
 🔴 <a data-href="8.2 - Threat mitigation" href="content\U8 - Security\8.2 - Threat mitigation" class="internal-link" target="_blank" rel="noopener">8.2 - Threat mitigation</a></p>
