@@ -28,7 +28,7 @@
 
 code, kbd, pre {
   font-family: "Roboto Mono", "Courier New", Courier, monospace;
-  background-color: #eaeaea;
+  background-color: #222222;
 }
 
 pre {
