@@ -195,7 +195,7 @@ ul.contains-task-list li input[type="checkbox"] {
 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟠🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴</p>
 <hr>
 <h5 data-heading="<mark style=&quot;background: #FFB8EBA6;&quot;>U1 - Problem Solving</mark> <mark style=&quot;background: #CACFD9A6;&quot;>2/2</mark>"><mark style="background: #FFB8EBA6;">U1 - Problem Solving</mark> <mark style="background: #CACFD9A6;">2/2</mark></h5>
-<p>🟢 <a data-href="1.1 - 🖥 Computational Thinking" href="content/U1 - Problem Solving/1.1 - 🖥 Computational Thinking.md" class="internal-link" target="_blank" rel="noopener">1.1 - 🖥 Computational Thinking</a><br>
+<p>🟢 <a data-href="1.1 - 🖥 Computational Thinking" href="content/U1 - Problem Solving/1.1 - 🖥 Computational Thinking" class="internal-link" target="_blank" rel="noopener">1.1 - 🖥 Computational Thinking</a><br>
 🟠 <a data-href="1.2 - 👾 Algorithms" href="1.2 - 👾 Algorithms" class="internal-link" target="_blank" rel="noopener">1.2 - 👾 Algorithms</a></p>
 <h5 data-heading="<mark style=&quot;background: #FF5582A6;&quot;>U2 - Introduction to Programming</mark> <mark style=&quot;background: #CACFD9A6;&quot;>8/8</mark>"><mark style="background: #FF5582A6;">U2 - Introduction to Programming</mark> <mark style="background: #CACFD9A6;">8/8</mark></h5>
 <p>🟢 <a data-href="2.1 - 🗃 Program Data" href="2.1 - 🗃 Program Data" class="internal-link" target="_blank" rel="noopener">2.1 - 🗃 Program Data</a><br>
