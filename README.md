@@ -196,16 +196,16 @@ ul.contains-task-list li input[type="checkbox"] {
 <hr>
 <h5 data-heading="<mark style=&quot;background: #FFB8EBA6;&quot;>U1 - Problem Solving</mark> <mark style=&quot;background: #CACFD9A6;&quot;>2/2</mark>"><mark style="background: #FFB8EBA6;">U1 - Problem Solving</mark> <mark style="background: #CACFD9A6;">2/2</mark></h5>
 <p>🟢 <a data-href="1.1 - 🖥 Computational Thinking" href="content/U1 - Problem Solving/1.1 - 🖥 Computational Thinking" class="internal-link" target="_blank" rel="noopener">1.1 - 🖥 Computational Thinking</a><br>
-🟠 <a data-href="1.2 - 👾 Algorithms" href="1.2 - 👾 Algorithms" class="internal-link" target="_blank" rel="noopener">1.2 - 👾 Algorithms</a></p>
+🟠 <a data-href="1.2 - 👾 Algorithms" href="content/U1 - Problem Solving/1.2 - 👾 Algorithms" class="internal-link" target="_blank" rel="noopener">1.2 - 👾 Algorithms</a></p>
 <h5 data-heading="<mark style=&quot;background: #FF5582A6;&quot;>U2 - Introduction to Programming</mark> <mark style=&quot;background: #CACFD9A6;&quot;>8/8</mark>"><mark style="background: #FF5582A6;">U2 - Introduction to Programming</mark> <mark style="background: #CACFD9A6;">8/8</mark></h5>
-<p>🟢 <a data-href="2.1 - 🗃 Program Data" href="2.1 - 🗃 Program Data" class="internal-link" target="_blank" rel="noopener">2.1 - 🗃 Program Data</a><br>
-🟢 <a data-href="2.2 - 🏭 Operators" href="2.2 - 🏭 Operators" class="internal-link" target="_blank" rel="noopener">2.2 - 🏭 Operators</a><br>
-🟢 <a data-href="2.3 - ✋ File handling" href="2.3 - ✋ File handling" class="internal-link" target="_blank" rel="noopener">2.3 - ✋ File handling</a><br>
-🟢 <a data-href="2.4 - 🏗 Program Structure" href="2.4 - 🏗 Program Structure" class="internal-link" target="_blank" rel="noopener">2.4 - 🏗 Program Structure</a><br>
-🟢 <a data-href="2.5 - 🏠 Built-in functions" href="2.5 - 🏠 Built-in functions" class="internal-link" target="_blank" rel="noopener">2.5 - 🏠 Built-in functions</a><br>
-🟢 <a data-href="2.6 - 🎫 Validation and error handling" href="2.6 - 🎫 Validation and error handling" class="internal-link" target="_blank" rel="noopener">2.6 - 🎫 Validation and error handling</a><br>
-🟢 <a data-href="2.7 - 🛠 Maintainable code" href="2.7 - 🛠 Maintainable code" class="internal-link" target="_blank" rel="noopener">2.7 - 🛠 Maintainable code</a><br>
-🟢 <a data-href="2.8 - 🧪 Testing" href="2.8 - 🧪 Testing" class="internal-link" target="_blank" rel="noopener">2.8 - 🧪 Testing</a></p>
+<p>🟢 <a data-href="2.1 - 🗃 Program Data" href="content\U2 - Introduction to Programming\2.1 - 🗃 Program Data" class="internal-link" target="_blank" rel="noopener">2.1 - 🗃 Program Data</a><br>
+🟢 <a data-href="2.2 - 🏭 Operators" href="content\U2 - Introduction to Programming\2.2 - 🏭 Operators" class="internal-link" target="_blank" rel="noopener">2.2 - 🏭 Operators</a><br>
+🟢 <a data-href="2.3 - ✋ File handling" href="content\U2 - Introduction to Programming\2.3 - ✋ File handling" class="internal-link" target="_blank" rel="noopener">2.3 - ✋ File handling</a><br>
+🟢 <a data-href="2.4 - 🏗 Program Structure" href="content\U2 - Introduction to Programming\2.4 - 🏗 Program Structure" class="internal-link" target="_blank" rel="noopener">2.4 - 🏗 Program Structure</a><br>
+🟢 <a data-href="2.5 - 🏠 Built-in functions" href="content\U2 - Introduction to Programming\2.5 - 🏠 Built-in functions" class="internal-link" target="_blank" rel="noopener">2.5 - 🏠 Built-in functions</a><br>
+🟢 <a data-href="2.6 - 🎫 Validation and error handling" href="content\U2 - Introduction to Programming\2.6 - 🎫 Validation and error handling" class="internal-link" target="_blank" rel="noopener">2.6 - 🎫 Validation and error handling</a><br>
+🟢 <a data-href="2.7 - 🛠 Maintainable code" href="content\U2 - Introduction to Programming\2.7 - 🛠 Maintainable code" class="internal-link" target="_blank" rel="noopener">2.7 - 🛠 Maintainable code</a><br>
+🟢 <a data-href="2.8 - 🧪 Testing" href="content\U2 - Introduction to Programming\2.8 - 🧪 Testing" class="internal-link" target="_blank" rel="noopener">2.8 - 🧪 Testing</a></p>
 <h5 data-heading="<mark style=&quot;background: #FFB86CA6;&quot;>U3 - Emerging Issues and Impact</mark> <mark style=&quot;background: #CACFD9A6;&quot;>2/2</mark>"><mark style="background: #FFB86CA6;">U3 - Emerging Issues and Impact</mark> <mark style="background: #CACFD9A6;">2/2</mark></h5>
 <p>🟢 <a data-href="3.1 - 😇 Moral and ethical issues" href="3.1 - 😇 Moral and ethical issues" class="internal-link" target="_blank" rel="noopener">3.1 - 😇 Moral and ethical issues</a><br>
 🟢 <a data-href="3.2 -  ❗   Merging trends and technologies" href="3.2 -  ❗   Merging trends and technologies" class="internal-link" target="_blank" rel="noopener">3.2 -  ❗   Merging trends and technologies</a></p>
