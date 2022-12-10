@@ -104,7 +104,7 @@ table td {
 }
 
 body {
-  backround-color: #1e1e1e;
+  background-color: #1e1e1e;
 }
 
 .callout-icon {
