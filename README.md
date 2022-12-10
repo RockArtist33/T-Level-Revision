@@ -103,6 +103,10 @@ table td {
   background-color: #aaaaaa;
 }
 
+.whitetext {
+  color: #ffff;
+}
+
 body {
   background-color: #1e1e1e;
 }
@@ -184,7 +188,7 @@ ul.contains-task-list li input[type="checkbox"] {
   </style>
 </head>
 <body>
-<div><p><strong>This was created by Philip to use as a good revision source for our T-Level class, hopefully you guys use this and find it useful, if you request I can allow you to also edit and create notes and help me create good and useful revision for us all. </strong></p>
+<div><p class="whitetext"><strong>This was created by Philip to use as a good revision source for our T-Level class, hopefully you guys use this and find it useful, if you request I can allow you to also edit and create notes and help me create good and useful revision for us all. </strong></p>
 <ul>
 <li><strong><mark style="background: #FFF3A3A6;">Contributors</mark></strong> 
 <ul>
@@ -193,7 +197,7 @@ ul.contains-task-list li input[type="checkbox"] {
 </ul>
 </li>
 </ul>
-<p><strong>This is our entire spec for our course, this is a 2020 document but it seems to be the one we are currently following and the one that we will follow on from.</strong> </p>
+<p class="whitetext"><strong>This is our entire spec for our course, this is a 2020 document but it seems to be the one we are currently following and the one that we will follow on from.</strong> </p>
 <hr>
 <p><mark style="background: #CACFD9A6;">Sub-Units Left: 10/29</mark><br>
 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟠🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴</p>
