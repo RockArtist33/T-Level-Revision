@@ -227,7 +227,7 @@ ul.contains-task-list li input[type="checkbox"] {
 🔴 <a data-href="6.3 - Data systems" href="content\U6 - Data\6.3 - Data systems" class="internal-link" target="_blank" rel="noopener">6.3 - Data systems</a><br>
 🔴 <a data-href="6.4 - Data management" href="content\U6 - Data\6.4 - Data management" class="internal-link" target="_blank" rel="noopener">6.4 - Data management</a></p>
 <h5 data-heading="<mark style=&quot;background: #ADCCFFA6;&quot;>U7 - Digital Environment</mark> <mark style=&quot;background: #CACFD9A6;&quot;>5/5</mark>"><mark style="background: #ADCCFFA6;">U7 - Digital Environment</mark> <mark style="background: #CACFD9A6;">5/5</mark></h5>
-<p>🟢 <a data-href="7.1 - 🪛 Physical environments" href="content\U7 - Digital Environment\7.1 - 🪛 Physical environments" class="internal-link" target="_blank" rel="noopener">7.1 - 🪛 Physical environments</a><br>
+<p>🟢 <a data-href="7.1 - 🍎 Physical environments" href="content\U7 - Digital Environment\7.1 - 🍎 Physical environments" class="internal-link" target="_blank" rel="noopener">7.1 - 🍎 Physical environments</a><br>
 🟢 <a data-href="7.2 - ⚡ Networks" href="content\U7 - Digital Environment\7.2 - ⚡ Networks" class="internal-link" target="_blank" rel="noopener">7.2 - ⚡ Networks</a><br>
 🟢 <a data-href="7.3 - 🤔 Virtual environments" href="content\U7 - Digital Environment\7.3 - 🤔 Virtual environments" class="internal-link" target="_blank" rel="noopener">7.3 - 🤔 Virtual environments</a><br>
 🟢 <a data-href="7.4 - ☁ Cloud environments" href="content\U7 - Digital Environment\7.4 - ☁ Cloud environments" class="internal-link" target="_blank" rel="noopener">7.4 - ☁ Cloud environments</a><br>
