@@ -205,10 +205,12 @@ ul.contains-task-list li input[type="checkbox"] {
 <mark style="background: #14D71DA6;">Pros</mark> - <mark style="background: #D71414A6;">Cons</mark> - <mark style="background: #FFF3A3A6;">Important</mark> - <mark style="background: #BBFABBA6;">Finished</mark> - <mark style="background: #FF5582A6;">Incomplete</mark> 
 
 <hr>
-<h5 data-heading="<mark style=&quot;background: #FFB8EBA6;&quot;>U1 - Problem Solving</mark> <mark style=&quot;background: #CACFD9A6;&quot;>2/2</mark>"><mark style="background: #FFB8EBA6;">U1 - Problem Solving</mark> <mark style="background: #CACFD9A6;">2/2</mark></h5>
+<button class="collapsible"><h5 data-heading="<mark style=&quot;background: #FFB8EBA6;&quot;>U1 - Problem Solving</mark> <mark style=&quot;background: #CACFD9A6;&quot;>2/2</mark>"><mark style="background: #FFB8EBA6;">U1 - Problem Solving</mark> <mark style="background: #CACFD9A6;">2/2</mark></h5></button>
+<div class="content">
 <p>🟢 <a data-href="1.1 - 🖥 Computational Thinking" href="content/U1 - Problem Solving/1.1 - 🖥 Computational Thinking" class="internal-link" rel="noopener">1.1 - 🖥 Computational Thinking</a><br>
 🟠 <a data-href="1.2 - 👾 Algorithms" href="content/U1 - Problem Solving/1.2 - 👾 Algorithms" class="internal-link" rel="noopener">1.2 - 👾 Algorithms</a></p>
 <h5 data-heading="<mark style=&quot;background: #FF5582A6;&quot;>U2 - Introduction to Programming</mark> <mark style=&quot;background: #CACFD9A6;&quot;>8/8</mark>"><mark style="background: #FF5582A6;">U2 - Introduction to Programming</mark> <mark style="background: #CACFD9A6;">8/8</mark></h5>
+  </div>
 <p>🟢 <a data-href="2.1 - 🗃 Program Data" href="content\U2 - Introduction to Programming\2.1 - 🗃 Program Data" class="internal-link" rel="noopener">2.1 - 🗃 Program Data</a><br>
 🟢 <a data-href="2.2 - 🏭 Operators" href="content\U2 - Introduction to Programming\2.2 - 🏭 Operators" class="internal-link" rel="noopener">2.2 - 🏭 Operators</a><br>
 🟢 <a data-href="2.3 - ✋ File handling" href="content\U2 - Introduction to Programming\2.3 - ✋ File handling" class="internal-link" rel="noopener">2.3 - ✋ File handling</a><br>
