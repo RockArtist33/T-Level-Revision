@@ -184,6 +184,31 @@ ul.contains-task-list li input[type="checkbox"] {
   width: 100%;
   background-color: #f5f5f5;
 }
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
 
   </style>
 </head>
@@ -247,4 +272,18 @@ ul.contains-task-list li input[type="checkbox"] {
 <h1 data-heading=""></h1>
 <h1><a href="https://github.com/RockArtist33/T-Level-Revision-dpdd/content/Misc/pdf//t-level-spec-2020.pdf#page=25"> T-Level Specifications</a></h1>
 </body>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
 </html>
