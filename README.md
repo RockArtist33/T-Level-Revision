@@ -258,18 +258,4 @@ ul.contains-task-list li input[type="checkbox"] {
 <h1 data-heading=""></h1>
 <h1><a href="https://github.com/RockArtist33/T-Level-Revision-dpdd/content/Misc/pdf//t-level-spec-2020.pdf#page=25"> T-Level Specifications</a></h1>
 </body>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
 </html>
