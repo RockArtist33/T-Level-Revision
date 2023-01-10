@@ -1,17 +1,17 @@
 name: J
-enableToc: true
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: false
-enableCodeBlockTitle: true
-enableCodeBlockCopy: true
+enableCodeBlockTitle: false
+enableCodeBlockCopy: false
 enableCallouts: true
-enableSPA: true
+enableSPA: false
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-enableMermaid: true
+enableMermaid: false
 GitHubLink: https://github.com/RockArtist33/T-Level-Revision-dpdd
 search:
   enableSemanticSearch: false
