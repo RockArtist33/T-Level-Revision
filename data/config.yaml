@@ -6,12 +6,12 @@ enableLatex: false
 enableCodeBlockTitle: false
 enableCodeBlockCopy: false
 enableCallouts: true
-enableSPA: false
+enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
-enableMermaid: false
+enableMermaid: true
 GitHubLink: https://github.com/RockArtist33/T-Level-Revision-dpdd
 search:
   enableSemanticSearch: false
