@@ -17,18 +17,29 @@
 -------------------------------------------------------------------------------
 
 ##### <mark style="background: #FFB8EBA6;">U1 - Problem Solving</mark> <mark style="background: #CACFD9A6;">2/2</mark>
+
 🟢 [[1.1 - 🖥 Computational Thinking]]
+
 🟢 [[1.2 - 👾 Algorithms]]
 
 ##### <mark style="background: #FF5582A6;">U2 - Introduction to Programming</mark> <mark style="background: #CACFD9A6;">8/8</mark>
+
 🟢 [[2.1 - 🗃 Program Data]]
-🟢 [[2.2 - 🏭 Operators]]
+
+🟢 [[2.2 - 🏭 Operators
+
 🟢 [[2.3 - ✋ File handling]]
+
 🟢 [[2.4 - 🏗 Program Structure]]
+
 🟢 [[2.5 - 🏠 Built-in functions]]
+
 🟢 [[2.6 - 🎫 Validation and error handling]]
+
 🟢 [[2.7 - 🛠 Maintainable code]]
+
 🟢 [[2.8 - 🧪 Testing]]
+
 
 ##### <mark style="background: #FFB86CA6;">U3 - Emerging Issues and Impact</mark> <mark style="background: #CACFD9A6;">2/2</mark>
 🟢 [[3.1 - 😇 Moral and ethical issues]]
