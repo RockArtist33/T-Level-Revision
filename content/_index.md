@@ -10,7 +10,7 @@
 -------------------------------------------------------------------------------
 
 <mark style="background: #CACFD9A6;">Sub-Units Left: 10/29</mark>
-🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟠🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 <mark style="background: #14D71DA6;">Pros</mark> - <mark style="background: #D71414A6;">Cons</mark> - <mark style="background: #FFF3A3A6;">Important</mark> - <mark style="background: #BBFABBA6;">Finished</mark> - <mark style="background: #FF5582A6;">Incomplete</mark> 
 
@@ -18,7 +18,7 @@
 
 ##### <mark style="background: #FFB8EBA6;">U1 - Problem Solving</mark> <mark style="background: #CACFD9A6;">2/2</mark>
 🟢 [[1.1 - 🖥 Computational Thinking]]
-🟠 [[1.2 - 👾 Algorithms]]
+🟢 [[1.2 - 👾 Algorithms]]
 
 ##### <mark style="background: #FF5582A6;">U2 - Introduction to Programming</mark> <mark style="background: #CACFD9A6;">8/8</mark>
 🟢 [[2.1 - 🗃 Program Data]]
