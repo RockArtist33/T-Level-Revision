@@ -18,15 +18,19 @@
 
 ##### <mark style="background: #FFB8EBA6;">U1 - Problem Solving</mark> <mark style="background: #CACFD9A6;">2/2</mark>
 
+<<<<<<< HEAD
 🟢 [1.1 - 🖥 Computational Thinking]](content/notes/1.1 - 🖥 Computational Thinking.md)
+=======
+🟢 [[1.1 - 🖥 Computational Thinking]]
+>>>>>>> 8e617b37a9d1aaccbd808cf92cd21ae91461a0df
 
 🟢 [1.2 - 👾 Algorithms](content/notes/1.1 - 🖥 Computational Thinking.md)
 
 ##### <mark style="background: #FF5582A6;">U2 - Introduction to Programming</mark> <mark style="background: #CACFD9A6;">8/8</mark>
 
-🟢 [2.1 - 🗃 Program Data]]
+🟢 [[2.1 - 🗃 Program Data]]
 
-🟢 [2.2 - 🏭 Operators
+🟢 [[2.2 - 🏭 Operators]]
 
 🟢 [[2.3 - ✋ File handling]]
 
