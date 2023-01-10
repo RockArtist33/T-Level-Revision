@@ -212,7 +212,7 @@ ul.contains-task-list li input[type="checkbox"] {
 <p class="whitetext"><strong>This is our entire spec for our course, this is a 2020 document but it seems to be the one we are currently following and the one that we will follow on from.</strong> </p>
 <hr>
 <p><mark style="background: #CACFD9A6;">Sub-Units Left: 10/29</mark><br>
-🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟠🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴</p>
+🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴</p>
 
 <mark style="background: #14D71DA6;">Pros</mark> - <mark style="background: #D71414A6;">Cons</mark> - <mark style="background: #FFF3A3A6;">Important</mark> - <mark style="background: #BBFABBA6;">Finished</mark> - <mark style="background: #FF5582A6;">Incomplete</mark> 
 
@@ -220,7 +220,7 @@ ul.contains-task-list li input[type="checkbox"] {
 <h5 data-heading="<mark style=&quot;background: #FFB8EBA6;&quot;>U1 - Problem Solving</mark> <mark style=&quot;background: #CACFD9A6;&quot;>2/2</mark>"><mark style="background: #FFB8EBA6;">U1 - Problem Solving</mark> <mark style="background: #CACFD9A6;">2/2</mark></h5>
 
 <p>🟢 <a data-href="1.1 - 🖥 Computational Thinking" href="content/U1 - Problem Solving/1.1 - 🖥 Computational Thinking" class="internal-link" rel="noopener">1.1 - 🖥 Computational Thinking</a><br>
-🟠 <a data-href="1.2 - 👾 Algorithms" href="content/U1 - Problem Solving/1.2 - 👾 Algorithms" class="internal-link" rel="noopener">1.2 - 👾 Algorithms</a></p>
+🟢 <a data-href="1.2 - 👾 Algorithms" href="content/U1 - Problem Solving/1.2 - 👾 Algorithms" class="internal-link" rel="noopener">1.2 - 👾 Algorithms</a></p>
 <h5 data-heading="<mark style=&quot;background: #FF5582A6;&quot;>U2 - Introduction to Programming</mark> <mark style=&quot;background: #CACFD9A6;&quot;>8/8</mark>"><mark style="background: #FF5582A6;">U2 - Introduction to Programming</mark> <mark style="background: #CACFD9A6;">8/8</mark></h5>
 <p>🟢 <a data-href="2.1 - 🗃 Program Data" href="content\U2 - Introduction to Programming\2.1 - 🗃 Program Data" class="internal-link" rel="noopener">2.1 - 🗃 Program Data</a><br>
 🟢 <a data-href="2.2 - 🏭 Operators" href="content\U2 - Introduction to Programming\2.2 - 🏭 Operators" class="internal-link" rel="noopener">2.2 - 🏭 Operators</a><br>
