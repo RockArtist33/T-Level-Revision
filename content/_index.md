@@ -42,38 +42,58 @@
 
 
 ##### <mark style="background: #FFB86CA6;">U3 - Emerging Issues and Impact</mark> <mark style="background: #CACFD9A6;">2/2</mark>
+
 🟢 [[3.1 - 😇 Moral and ethical issues]]
+
 🟢 [[3.2 -  ❗   Merging trends and technologies]]
 
 ##### <mark style="background: #FFF3A3A6;">U4 - Legislation and Regulatory Requirements</mark> <mark style="background: #CACFD9A6;">2/2</mark>
+
 🟢 [[4.1 - 🧾 Legislation]]
+
 🟢 [[4.2 - 📐 Guidelines and codes of conduct]]
 
 ##### <mark style="background: #BBFABBA6;">U5 - Business Environment</mark> <mark style="background: #CACFD9A6;">0/4</mark>
+
 🔴 [[5.1 - The business environment]]
+
 🔴 [[5.2 - Digital value to business]]
+
 🔴 [[5.3 - Technical change management]]
+
 🔴 [[5.4 - Risks in a business context]]
 
 ##### <mark style="background: #ABF7F7A6;">U6 - Data</mark> <mark style="background: #CACFD9A6;">0/4</mark>
+
 🔴 [[6.1 - Data and information in organisations]]
+
 🔴 [[6.2 - Data formats]]
+
 🔴 [[6.3 - Data systems]]
+
 🔴 [[6.4 - Data management]]
 
 ##### <mark style="background: #ADCCFFA6;">U7 - Digital Environment</mark> <mark style="background: #CACFD9A6;">5/5</mark>
+
 🟢 [[7.1 - 🍎 Physical environments]]
+
 🟢 [[7.2 - ⚡ Networks]]
+
 🟢 [[7.3 - 🤔 Virtual environments]]
+
 🟢 [[7.4 - ☁ Cloud environments]]
+
 🟢 [[7.5 - 😷 Resilience of environment]]
 
 ##### <mark style="background: #D2B3FFA6;">U8 - Security</mark> <mark style="background: #CACFD9A6;">0/2</mark>
+
 🔴 [[8.1 - Security risks]]
+
 🔴 [[8.2 - Threat mitigation]]
 
 
 
 #
 # <mark style="background: #ABF7F7A6;">PDF - SPEC 2020</mark>
+
 ![[t-level-spec-2020.pdf#page=22]]
