@@ -12,7 +12,7 @@ The majority of configuration can be found under `data/config.yaml`. An annotate
 
 ```yaml {title="data/config.yaml"}
 # The name to display in the footer
-name: Jacky Zhao
+name: T-Levels - DPDD
 
 # whether to globally show the table of contents on each page
 # this can be turned off on a per-page basis by adding this to the
@@ -50,11 +50,11 @@ enableFooter: true
 enableContextualBacklinks: true
 
 # whether to show a section of recent notes on the home page
-enableRecentNotes: false
+enableRecentNotes: true
 
 # whether to display an 'edit' button next to the last edited field
 # that links to github
-enableGitHubEdit: true
+enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 
 # whether to render mermaid diagrams
@@ -70,19 +70,18 @@ search:
 
 # page description used for SEO
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  This was started by Philip with help from contributors to use as a good revision source for our T-Level class, hopefully you guys use this and find it useful, we also create a web version that is also updated.
 
 # title of the home page (also for SEO)
 page_title:
-  "🪴 Quartz 3.3"
+  "T-Levels - DPDD / 26th Feb 2023
 
 # links to show in the footer
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: Obsidian
+    link: https://obsidian.md/
+  - link_name: Philip
+    link: https://krenity.github.io/Website/websitemain.html
 ```
 
 ### Code Block Titles
@@ -157,7 +156,7 @@ enableGlobalGraph: false
 ### Local Graph ###
 localGraph:
     # whether automatically generate a legend
-    enableLegend: false
+    enableLegend: true
     
     # whether to allow dragging nodes in the graph
     enableDrag: true
