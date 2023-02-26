@@ -18,23 +18,23 @@
 
 ##### <mark style="background: #FFB8EBA6;">U1 - Problem Solving</mark> <mark style="background: #CACFD9A6;">2/2</mark>
 
-🟢 [1.1 - 🖥 Computational Thinking](notes/1.md)
+🟢 [1.1 - 🖥 Computational Thinking](notes/11.md)
 
-🟢 [[1.2 - 👾 Algorithms]]
+🟢 [1.2 - 👾 Algorithms](notes/12.md)
 
 ##### <mark style="background: #FF5582A6;">U2 - Introduction to Programming</mark> <mark style="background: #CACFD9A6;">8/8</mark>
 
-🟢 [[2.1 - 🗃 Program Data]]
+🟢 [2.1 - 🗃 Program Data](notes/21.md)
 
-🟢 [[2.2 - 🏭 Operators]]
+🟢 [2.2 - 🏭 Operators](notes/22.md)
 
-🟢 [[2.3 - ✋ File handling]]
+🟢 [2.3 - ✋ File handling](notes/23.md)
 
-🟢 [[2.4 - 🏗 Program Structure]]
+🟢 [2.4 - 🏗 Program Structure](notes/24.md)
 
-🟢 [[2.5 - 🏠 Built-in functions]]
+🟢 [2.5 - 🏠 Built-in functions](notes/25.md)
 
-🟢 [[2.6 - 🎫 Validation and error handling]]
+🟢 [2.6 - 🎫 Validation and error handling](notes/26.md)
 
 🟢 [[2.7 - 🛠 Maintainable code]]
 
