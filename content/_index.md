@@ -18,7 +18,7 @@
 
 ##### <mark style="background: #FFB8EBA6;">U1 - Problem Solving</mark> <mark style="background: #CACFD9A6;">2/2</mark>
 
-🟢 [1.1 - 🖥 Computational Thinking](notes/1.1 - 🖥 Computational Thinking.md)
+🟢 [1.1 - 🖥 Computational Thinking](notes/"1.1 - 🖥 Computational Thinking.md")
 
 🟢 [[1.2 - 👾 Algorithms]]
 
