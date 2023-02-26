@@ -36,60 +36,60 @@
 
 🟢 [2.6 - 🎫 Validation and error handling](notes/26.md)
 
-🟢 [[2.7 - 🛠 Maintainable code]]
+🟢 [2.7 - 🛠 Maintainable code](notes/27.md)
 
-🟢 [[2.8 - 🧪 Testing]]
+🟢 [2.8 - 🧪 Testing](notes/28.md)
 
 
 ##### <mark style="background: #FFB86CA6;">U3 - Emerging Issues and Impact</mark> <mark style="background: #CACFD9A6;">2/2</mark>
 
-🟢 [[3.1 - 😇 Moral and ethical issues]]
+🟢 [3.1 - 😇 Moral and ethical issues](notes/31.md)
 
-🟢 [[3.2 -  ❗   Merging trends and technologies]]
+🟢 [3.2 -  ❗   Merging trends and technologies](notes/32.md)
 
 ##### <mark style="background: #FFF3A3A6;">U4 - Legislation and Regulatory Requirements</mark> <mark style="background: #CACFD9A6;">2/2</mark>
 
-🟢 [[4.1 - 🧾 Legislation]]
+🟢 [4.1 - 🧾 Legislation](notes/41.md)
 
-🟢 [[4.2 - 📐 Guidelines and codes of conduct]]
+🟢 [4.2 - 📐 Guidelines and codes of conduct](notes/42.md)
 
 ##### <mark style="background: #BBFABBA6;">U5 - Business Environment</mark> <mark style="background: #CACFD9A6;">0/4</mark>
 
-🔴 [[5.1 - The business environment]]
+🔴 [5.1 - The business environment](notes/51.md)
 
-🔴 [[5.2 - Digital value to business]]
+🔴 [5.2 - Digital value to business](notes/52.md)
 
-🔴 [[5.3 - Technical change management]]
+🔴 [5.3 - Technical change management](notes/53.md)
 
-🔴 [[5.4 - Risks in a business context]]
+🔴 [5.4 - Risks in a business context](notes/54.md)
 
 ##### <mark style="background: #ABF7F7A6;">U6 - Data</mark> <mark style="background: #CACFD9A6;">0/4</mark>
 
-🔴 [[6.1 - Data and information in organisations]]
+🔴 [6.1 - Data and information in organisations](notes/61.md)
 
-🔴 [[6.2 - Data formats]]
+🔴 [6.2 - Data formats](notes/62.md)
 
-🔴 [[6.3 - Data systems]]
+🔴 [6.3 - Data systems](notes/63.md)
 
-🔴 [[6.4 - Data management]]
+🔴 [6.4 - Data management](notes/64.md)
 
 ##### <mark style="background: #ADCCFFA6;">U7 - Digital Environment</mark> <mark style="background: #CACFD9A6;">5/5</mark>
 
-🟢 [[7.1 - 🍎 Physical environments]]
+🟢 [7.1 - 🍎 Physical environments](notes/71.md)
 
-🟢 [[7.2 - ⚡ Networks]]
+🟢 [7.2 - ⚡ Networks](notes/72.md)
 
-🟢 [[7.3 - 🤔 Virtual environments]]
+🟢 [7.3 - 🤔 Virtual environments](notes/73.md)
 
-🟢 [[7.4 - ☁ Cloud environments]]
+🟢 [7.4 - ☁ Cloud environments](notes/74.md)
 
-🟢 [[7.5 - 😷 Resilience of environment]]
+🟢 [7.5 - 😷 Resilience of environment](notes/75.md)
 
 ##### <mark style="background: #D2B3FFA6;">U8 - Security</mark> <mark style="background: #CACFD9A6;">0/2</mark>
 
-🔴 [[8.1 - Security risks]]
+🔴 [8.1 - Security risks](notes/81.md)
 
-🔴 [[8.2 - Threat mitigation]]
+🔴 [8.2 - Threat mitigation](notes/82.md)
 
 
 
