@@ -1,4 +1,4 @@
-**This was created by Philip to use as a good revision source for our T-Level class, hopefully you guys use this and find it useful, if you request I can allow you to also edit and create notes and help me create good and useful revision for us all. **
+**This was created by Philip with help from contributors to use as a good revision source for our T-Level class, hopefully you guys use this and find it useful, if you request I can allow you to also edit and create notes and help me create good and useful revision for us all. **
 
 - **<mark style="background: #FFF3A3A6;">Contributors</mark>** 
 	- Rubab

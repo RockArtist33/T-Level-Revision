@@ -12,7 +12,7 @@ The majority of configuration can be found under `data/config.yaml`. An annotate
 
 ```yaml {title="data/config.yaml"}
 # The name to display in the footer
-name: Jacky Zhao
+name: T-Levels - DPDD
 
 # whether to globally show the table of contents on each page
 # this can be turned off on a per-page basis by adding this to the
@@ -50,11 +50,11 @@ enableFooter: true
 enableContextualBacklinks: true
 
 # whether to show a section of recent notes on the home page
-enableRecentNotes: false
+enableRecentNotes: true
 
 # whether to display an 'edit' button next to the last edited field
 # that links to github
-enableGitHubEdit: true
+enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 
 # whether to render mermaid diagrams

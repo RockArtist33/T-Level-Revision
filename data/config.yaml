@@ -1,10 +1,10 @@
 name: J
-enableToc: false
+enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: false
 enableCodeBlockTitle: false
-enableCodeBlockCopy: false
+enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
 enableFooter: true
