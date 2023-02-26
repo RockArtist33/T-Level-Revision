@@ -35,7 +35,7 @@ enableCodeBlockCopy: true
 enableCallouts: true
 
 # whether to try to process Latex
-enableLatex: true
+enableLatex: false
 
 # whether to enable single-page-app style rendering
 # this prevents flashes of unstyled content and improves
@@ -156,7 +156,7 @@ enableGlobalGraph: false
 ### Local Graph ###
 localGraph:
     # whether automatically generate a legend
-    enableLegend: true
+    enableLegend: false
     
     # whether to allow dragging nodes in the graph
     enableDrag: true
