@@ -1,4 +1,4 @@
-baseURL = "https://rockartist33.github.io/T-Level-Revision-dpdd/"
+baseURL = "https://github.com/RockArtist33/T-Level-Revision-dpdd/blob/hugo/content"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = true
